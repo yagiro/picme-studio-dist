@@ -1,0 +1,11 @@
+{
+  "name": "picme-studio-dist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yagiro/picme-studio-dist.git",
+  "author": "Yakir Rabinovich <yagiro+gh@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "sh scripts/build.sh"
+  }
+}
